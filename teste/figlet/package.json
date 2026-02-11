@@ -1,0 +1,17 @@
+{
+  "name": "figlet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "figlet": "^1.10.0"
+  }
+}

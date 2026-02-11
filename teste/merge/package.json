@@ -1,0 +1,17 @@
+{
+  "name": "merge",
+  "version": "1.0.0",
+  "main": "main.js",
+  "module": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "readline-sync": "^1.4.10"
+  }
+}
