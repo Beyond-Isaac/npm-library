@@ -1,0 +1,17 @@
+{
+  "name": "uuid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "nanoid": "^5.1.6",
+    "uuid": "^13.0.0"
+  }
+}

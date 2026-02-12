@@ -1,0 +1,16 @@
+{
+  "name": "bycrypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+  "bcrypt": "^6.0.0"
+  }
+}
